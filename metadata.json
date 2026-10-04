@@ -1,0 +1,6 @@
+{
+  "name": "CogniForge - Modern Active Study & Skill Engine",
+  "description": "Transforms traditional passive rote memorization into modern active mastery with Feynman dialogue evaluation, Socratic adversary challenges, real-world micro-simulations, and practical 21st-century skill conversion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
